@@ -10,8 +10,12 @@ En el espíritu del open source, este repositorio ofrece recursos gratuitos para
 | Tema                                        | Enlace de Descarga                                  |
 |---------------------------------------------|-----------------------------------------------------|
 | Conceptos Básicos para el Análisis de Datos con RStudio | [Descargar](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA1_Conceptos%20b%C3%A1sicos%20de%20R.pdf) 📥 |
-| Creando un Proyecto con Rstudio - Parte I   | [Descargar]([URL-de-descarga-2](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA2_Crear%20un%20proyecto%20en%20RStudio.pdf)) 📥 |
+| Creando un Proyecto con Rstudio - Parte I   | [Descargar]([URL-de-descarga-2](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA2_Crear%20un%20proyecto%20en%20RStudio.pdf) 📥 |
 | Creando un Proyecto con Rstudio - Parte II  | [Descargar](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA2_Crear%20un%20proyecto%20en%20RStudio_prtII.pdf) 📥 |
+
+Da click en el enlace y a continuación tendrás una vista previa de la Chest sheet, para descargar da click en el boton señalado en la siguiente imagen:
+
+![image](descarga.png)
 
 
 
