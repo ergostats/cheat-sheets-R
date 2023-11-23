@@ -10,7 +10,7 @@ En el espíritu del open source, este repositorio ofrece recursos gratuitos para
 | Tema                                        | Enlace de Descarga                                  |
 |---------------------------------------------|-----------------------------------------------------|
 | Conceptos Básicos para el Análisis de Datos con RStudio | [Descargar](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA1_Conceptos%20b%C3%A1sicos%20de%20R.pdf) 📥 |
-| Creando un Proyecto con Rstudio - Parte I   | [Descargar]([URL-de-descarga-2](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA2_Crear%20un%20proyecto%20en%20RStudio.pdf) 📥 |
+| Creando un Proyecto con Rstudio - Parte I   | [Descargar](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA2_Crear%20un%20proyecto%20en%20RStudio.pdf) 📥 |
 | Creando un Proyecto con Rstudio - Parte II  | [Descargar](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA2_Crear%20un%20proyecto%20en%20RStudio_prtII.pdf) 📥 |
 
 Da click en el enlace y a continuación tendrás una vista previa de la Chest sheet, para descargar da click en el boton señalado en la siguiente imagen:
@@ -21,7 +21,7 @@ Da click en el enlace y a continuación tendrás una vista previa de la Chest sh
 
 ## 🤝 ¿Cómo Contribuir?
 
-Si estás interesado en contribuir a esta serie de cheatsheets, por favor consulta nuestras [pautas de contribución](LINK-a-las-pautas-de-contribución). Tu apoyo y contribuciones ayudan a mantener vivo el espíritu de la comunidad open source!
+Si estás interesado en contribuir a esta serie de cheatsheets, por favor envianos un correo a [administracion@ergostats.org](administracion@ergostats.org) con tus dudas y comentarios. Tu apoyo y contribuciones ayudan a mantener vivo el espíritu de la comunidad open source!
 
 ## 📜 Licencia
 
