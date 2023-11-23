@@ -25,11 +25,13 @@ Si estás interesado en contribuir a esta serie de cheatsheets, por favor envian
 
 ## 📜 Licencia
 
-Este proyecto está bajo la Licencia [NOMBRE DE LA LICENCIA](LINK-a-la-licencia) - ver el archivo LICENSE.md para más detalles.
+Este proyecto está licenciado bajo la Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0). Esto significa que puedes compartir, copiar y redistribuir el material en cualquier medio o formato, y adaptar, remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente, siempre y cuando proporciones el crédito apropiado, proporciones un enlace a la licencia, e indiques si se han realizado cambios.
+
+Puedes ver una copia de esta licencia en [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
 ## ✉️ Contacto
 
-Para más información o consultas, puedes contactar a [NOMBRE DE CONTACTO](Correo-o-enlace-de-contacto).
+Para más información o consultas, puedes contactar a [Estafanía Tapia](estefaniantm@ergostats.org).
 
 ---
 
