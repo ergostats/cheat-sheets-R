@@ -9,9 +9,11 @@ En el espíritu del open source, este repositorio ofrece recursos gratuitos para
 
 | Tema                                        | Enlace de Descarga                                  |
 |---------------------------------------------|-----------------------------------------------------|
-| Conceptos Básicos para el Análisis de Datos con RStudio | [Descargar](URL-de-descarga-1) 📥 |
-| Creando un Proyecto con Rstudio - Parte I   | [Descargar](URL-de-descarga-2) 📥 |
-| Creando un Proyecto con Rstudio - Parte II  | [Descargar](URL-de-descarga-3) 📥 |
+| Conceptos Básicos para el Análisis de Datos con RStudio | [Descargar](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA1_Conceptos%20b%C3%A1sicos%20de%20R.pdf) 📥 |
+| Creando un Proyecto con Rstudio - Parte I   | [Descargar]([URL-de-descarga-2](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA2_Crear%20un%20proyecto%20en%20RStudio.pdf)) 📥 |
+| Creando un Proyecto con Rstudio - Parte II  | [Descargar](https://github.com/ergostats/cheat-sheets-R/blob/main/TEMA2_Crear%20un%20proyecto%20en%20RStudio_prtII.pdf) 📥 |
+
+
 
 ## 🤝 ¿Cómo Contribuir?
 
